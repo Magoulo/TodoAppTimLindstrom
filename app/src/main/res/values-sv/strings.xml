@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Att Göra Lista</string>
+    <string name="DeleteButton">Ta Bort</string>
+    <string name="UpdateButton">Uppdatera</string>
+    <string name="SaveButton">Spara</string>
+    <string name="YesButton">Ja</string>
+    <string name="NoButton">Nej</string>
+    <string name="DeleteTaskConfirm">Är du säker på att du vill ta bort detta ärende?</string>
+</resources>
